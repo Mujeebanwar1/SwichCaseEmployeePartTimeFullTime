@@ -1,0 +1,15 @@
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\bin\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.exe
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\bin\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.deps.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\bin\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.runtimeconfig.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\bin\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\bin\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\obj\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.csproj.AssemblyReference.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\obj\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\obj\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.AssemblyInfoInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\obj\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.AssemblyInfo.cs
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\obj\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.csproj.CoreCompileInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\obj\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\obj\Debug\net6.0\refint\SwichCaseEmployeePartTimeFullTime.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\obj\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\obj\Debug\net6.0\SwichCaseEmployeePartTimeFullTime.genruntimeconfig.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\SwichCaseEmployeePartTimeFullTime\obj\Debug\net6.0\ref\SwichCaseEmployeePartTimeFullTime.dll
